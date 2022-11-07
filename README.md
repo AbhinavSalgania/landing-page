@@ -1,2 +1,3 @@
 # landing-page-odin
-First CSS and HTML webpage
+
+First CSS and HTML webpage.
